@@ -23,7 +23,9 @@
 <a href="https://www.instagram.com/syntax_coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@syntaxcoder13/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gorkcoder" height="30" width="40" /></a>
 </p>
- 
+
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=syntaxcoder13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
  
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
